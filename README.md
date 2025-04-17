@@ -95,7 +95,7 @@
   <a href="https://github.com/rougepavan"><img src="https://img.shields.io/badge/GitHub-rougepavan-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://linkedin.com/in/pavan2104"><img src="https://img.shields.io/badge/LinkedIn-pavan2104-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
----
+
 
 ## 📄 Download My Resume
 
@@ -139,13 +139,6 @@
 
 ---
 
-## 🪄 3D Developer Card
-
-<p align="center">
-  <img src="https://github.com/rougepavan/rougepavan/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🐍 Contribution Snake Animation
 
@@ -154,13 +147,34 @@
 </p>
 
 ---
-
-## 🌀Animated Terminal Dev Visuals
+## 🖥️ My Style Terminal Animations
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7d/46/3d/7d463d8a963540fd36998837d6a018b4.gif" width="300px"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+  <!-- 1. Repo clone + npm install -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=%24+git+clone+https://github.com/rougepavan/rougepavan;Cloning+repo...;Done+%E2%9C%94;~+%24+npm+install;Installing+packages+...;Dependencies+installed+%E2%9C%94"
+    alt="Hacker terminal typing animation"
+  />
+
+  <!-- 2. Server start -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FF00FF&center=true&vCenter=true&width=600&height=60&lines=%24+node+server.js;Starting+server+...;Server+started+%E2%9C%94;Listening+on+port+3000"
+    alt="Hacker server start animation"
+  />
+
+  <!-- 3. AI model load -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=FF5733&center=true&vCenter=true&width=600&height=60&lines=%24+python+train_model.py;Loading+AI+model...;Model+ready+%E2%9C%94"
+    alt="AI model loading animation"
+  />
+
+  <!-- 4. Network scan -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00FFFF&center=true&vCenter=true&width=600&height=60&lines=%24+ping+192.168.0.1;Pinging+host+...;Host+connected+%E2%9C%94"
+    alt="Hacker network scan animation"
+  />
 </p>
+
 
 ---
 
