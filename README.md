@@ -145,7 +145,7 @@
 
 ---
 
-## 🌀 Extras: Animated Terminal Dev Visuals
+## 🌀Animated Terminal Dev Visuals
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/7d/46/3d/7d463d8a963540fd36998837d6a018b4.gif" width="300px"/>
