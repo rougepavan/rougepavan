@@ -95,6 +95,16 @@
   <a href="https://github.com/rougepavan"><img src="https://img.shields.io/badge/GitHub-rougepavan-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://linkedin.com/in/pavan2104"><img src="https://img.shields.io/badge/LinkedIn-pavan2104-0077B5?style=for-the-badge&logo=linkedin" /></a>
 </p>
+---
+
+## 📄 Download My Resume
+
+<p align="center">
+  <a href="https://github.com/rougepavan/Po_Foli/raw/main/UPDATED_RESUME.pdf" download>
+    <img src="https://img.shields.io/badge/📥 Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Resume Download Badge" />
+  </a>
+</p>
+
 
 ---
 
