@@ -1,38 +1,38 @@
-<!-- Waving Hand -->
+<!-- Waving Hand Intro -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
   Hey there, I'm G PavanKumar!
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI Explorer | ⚡ Hackathon Lover | 🌍 Lifelong Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI Explorer | ⚡ Hackathon Winner | 💼 Open to Opportunities</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Bringing+Ideas+to+Life+through+Code...;Exploring+AI+%7C+ReactJS+%7C+NodeJS+%7C+GoLang+%7C+Open+Source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Building+Scalable+Apps+with+Brains+%26+Beauty...;React+%7C+Node+%7C+GoLang+%7C+AI+%7C+Freelance+Frontend+Dev" />
 </p>
 
 ---
 
-## 📊 GitHub Profile Trophy Cabinet
+## 👁️‍🗨️ Profile Views
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rougepavan&theme=dracula&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
+  <img src="https://komarev.com/ghpvc/?username=rougepavan&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 📚 About Me
 
 ```yaml
-👨‍💻 Name: G PavanKumar
-🎓 Student @ Saveetha School of Engineering (B.E. CSE - 3rd Year)
-💻 Tech Stack: ReactJS, NodeJS, GoLang, Python, SQL
-🔭 Current Focus: AI-powered applications, LLMs, Full-Stack Apps
-💬 Open to: Collabs, Hackathons, Freelance Frontend Dev
+👨‍💻 Name       : G PavanKumar
+🎓 Education   : 3rd Year B.E. CSE @ Saveetha School of Engineering
+🌍 Location    : Chennai, India
+💼 Passion     : Full-Stack Development, AI/ML, Open Source, Hackathons
+🧠 Strengths   : Problem Solving, Adaptability, Team Collaboration
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css,react,nodejs,go,django,flask,mongodb,mysql,postgres,tensorflow,vercel,aws,firebase,git,github,vscode,linux" />
@@ -40,12 +40,12 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Awards
 
-- 🥇 Winner - CodeSprint 3.0 (GPT-based Task Scheduler)
-- 🥇 Winner - CodeX Hackathon (License Plate Detection)
-- 🏅 Top 5 - VIT Code Carnival (Social Media Analytics)
-- 🏆 Top Performer - DevForge Coding Challenge
+- 🥇 CodeSprint 3.0 Winner – AI Task Scheduler with GPT
+- 🥇 CodeX Hackathon Champion – License Plate Detection System
+- 🏅 Top 5 – VIT Code Carnival – Social Analytics Dashboard
+- 🏆 DevForge Top Performer – Backend Infra & Full Stack Dev
 
 ---
 
@@ -53,22 +53,41 @@
 
 | 📌 Project | 🔧 Tech Stack | 🚀 Description |
 |-----------|----------------|----------------|
-| 🧠 Image Captioning AI | GPT, Python, TensorFlow | Auto-captions with GPT accuracy | 
-| 💬 Real-Time Chat App | Node.js, MongoDB, Socket.io | Live messaging system |
-| 🔍 LPD System | Python, OpenCV, CNN | License plate detection with ML |
-| 🛠️ Laptop Service App | MERN | Service management + inventory |
-| 📊 Analytics Dashboard | Django, APIs, Plotly | Social media engagement insights |
+| 🧠 **Image Captioning AI** | GPT, Python, TensorFlow | Auto-generates smart captions from images |
+| 💬 **Real-Time Chat App** | Node.js, MongoDB, Socket.io | Live messaging platform with persistence |
+| 🔍 **License Plate Detection** | Python, OpenCV, CNN | Real-time ML-based vehicle tracking |
+| 🛠️ **Laptop Service App** | MERN Stack | Inventory & repair workflow for laptops |
+| 📊 **Analytics Dashboard** | Django, Plotly, APIs | Visualizes multi-platform social engagement |
 
 ---
 
 ## 📘 Publications
 
-- 🔬 *Urban Dynamics and Deep Learning on Number Plates* – Nov 2023  
-- 🧠 *Redefining Image Captioning using GPT vs Transformers* – March 2025
+- 🔬 **CNN vs Pixel Models** – *Urban Dynamics & LPD* (Nov 2023)  
+- 🖼️ **GPT vs Transformers** – *Image Captioning Fluency & Accuracy* (Mar 2025)
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Currently Learning
+
+- ⛓️ Microservices with GoLang  
+- ☁️ Cloud Native Dev (Docker + AWS)  
+- 🤖 Fine-tuning LLMs  
+- 📦 Full-stack Automation & DevOps
+
+---
+
+## 🤝 Let’s Collaborate On...
+
+- 🤖 Generative AI + Chatbot Projects  
+- 🧩 Frontend Freelance Work  
+- 🧠 Hackathons & Problem Solving  
+- 🌐 Full Stack & SaaS Development  
+- 📢 Public Speaking / Workshops
+
+---
+
+## 🌐 Contact Me
 
 <p align="center">
   <a href="https://rougepavan.github.io/Po_Foli/"><img src="https://img.shields.io/badge/🌐 Portfolio-grey?style=for-the-badge" /></a>
@@ -79,47 +98,30 @@
 
 ---
 
-## 🤖 Fun Fact
-
-> I debug faster than GPT hallucinates — all while sipping cold coffee ☕🔥
-
----
-
-## 📚 Currently Learning
-
-- GoLang + Microservices ⛓️  
-- AWS & Docker ☁️  
-- LLM Fine-tuning + Prompt Engineering 🤖
-
----
-
-## 🤝 Let’s Collaborate
-
-- 💡 AI/ML Research
-- ⚡ Hackathons
-- 🌐 Full Stack Projects
-- 📦 Open Source Tools
-
----
-
-## 🧠 Random Dev Quote
+## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-## 📈 GitHub Stats & Snake
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rougepavan&show_icons=true&theme=tokyonight&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rougepavan&show_icons=true&theme=radical&border_radius=15" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rougepavan&theme=tokyonight&border_radius=15" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rougepavan&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rougepavan&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+## 🧠 Dev Quote + Fun Fact
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+> ⚡ *Fun Fact:* I once shipped a full-stack AI app in 24 hrs with just coffee and curiosity. ☕🔥
+
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
@@ -127,7 +129,7 @@
 
 ---
 
-## 🧩 Developer Card (3D)
+## 🪄 3D Developer Card
 
 <p align="center">
   <img src="https://github.com/rougepavan/rougepavan/blob/output/github-contribution-grid-snake.svg" />
@@ -135,12 +137,13 @@
 
 ---
 
-## 🎯 Visitors Counter
+## 🏆 GitHub Trophy Cabinet
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rougepavan&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="visitor badge"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rougepavan&theme=dracula&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
 </p>
 
 ---
 
-> ⭐️ *Inspired? Let's connect and create something epic together.*
+> 🎯 *Let’s build magic with code — and make ideas come alive!*
+
