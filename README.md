@@ -98,7 +98,7 @@
 
 ---
 
-## 📊 GitHub Stats & Contributions
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rougepavan&show_icons=true&theme=radical&border_radius=15" width="48%" />
@@ -121,10 +121,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophy Cabinet
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rougepavan&theme=matrix&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
 </p>
 
 ---
@@ -137,13 +137,21 @@
 
 ---
 
-## 🏆 GitHub Trophy Cabinet
+## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rougepavan&theme=dracula&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-> 🎯 *Let’s build magic with code — and make ideas come alive!*
+## 🌀 Extras: Animated Terminal Dev Visuals
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7d/46/3d/7d463d8a963540fd36998837d6a018b4.gif" width="300px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px"/>
+</p>
+
+---
+
+> 🚀 *Thanks for scrolling through! Drop a ⭐ if you like it — and let’s build something epic!* 🔥
